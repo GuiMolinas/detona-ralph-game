@@ -1,0 +1,48 @@
+div.container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url("../imgs/tijolo.jpg");
+}
+
+div.menu {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    height: 90px;
+    width: 100%;
+    background-color: #000000;
+    color: #ffffff;
+    border-bottom: 5px solid rgba(165, 42, 42, 0.607);
+}
+
+div.painel{
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div.square {
+    height: 150px;
+    width: 150px;
+    border: 1px solid #000000;
+    background-color: #a52a2a;
+}
+
+div.enemy {
+    background-image: url("../imgs/enemy.png");
+    background-color: #00008b;
+    background-size: cover;
+}
+
+div.menu-lives {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div.second {
+    margin-top: 10px;
+}
