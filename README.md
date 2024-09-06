@@ -1,4 +1,4 @@
-## **## Acumulando XP e Quebrando o CSS: Uma Aventura Codificada (Potência Tech IFood & DIO 2023)!**
+ **## Acumulando XP e Quebrando o CSS: Uma Aventura Codificada (Potência Tech IFood & DIO 2023)!**
 
 **Diretamente da Potência Tech IFood e do bootcamp DIO de 2023, trazemos para você essa jornada épica!** 
 
